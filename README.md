@@ -2,7 +2,8 @@
 #### Built an interactive Power BI Financial Dashboard to analyze sales, profit, products,segments , countries and discount performance dynamic filters and visualizations.
 ## Tools Used : Power BI, Power Query, DAX, Data Visualization.
 ### Dashboard Screenshot  
-![Dashboard Screenshot](Financial_Sample_Dashboard.jpg)
+
+<img width="1520" height="746" alt="Financial_Sample_Screenshot" src="https://github.com/user-attachments/assets/37ae0fe7-0818-4adc-b8bf-3f651d9ec541" />
 
  
   
