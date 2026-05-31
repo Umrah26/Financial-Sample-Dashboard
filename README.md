@@ -4,7 +4,8 @@
 ### Dashboard Screenshot  
 ![Dashboard Screenshot](Financial_Sample_Dashboard.jpg)
 
-  <img width="1481" height="588" alt="image" src="C:\Users\umrah\Desktop\Financial_Sample_Dashboard.jpg" />
+ 
+  
 
 
 ## Dashboard Analysis-
