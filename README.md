@@ -4,7 +4,7 @@
 ### Dashboard Screenshot  
 ![Dashboard Screenshot](Financial_Sample_Dashboard.jpg)
 
-  <img width="1481" height="588" alt="image" src="https://github.com/user-attachments/assets/e0b47a16-f32f-4cfd-ba3d-487fe8030bc8" />
+  <img width="1481" height="588" alt="image" src="C:\Users\umrah\Desktop\Financial_Sample_Dashboard.jpg" />
 
 
 ## Dashboard Analysis-
