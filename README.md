@@ -1,10 +1,12 @@
 # Financial Sample Dashboard :
 #### Built an interactive Power BI Financial Dashboard to analyze sales, profit, products,segments , countries and discount performance dynamic filters and visualizations.
 ## Tools Used : Power BI, Power Query, DAX, Data Visualization.
-### Dashboard Screenshot 
-![Dashboard Screenshot](Financial Sample Dashboard.jpg)
+### Dashboard Screenshot  
+![Dashboard Screenshot](Financial_Sample_Dashboard.jpg)
 
-## D
+
+
+## Dashboard Analysis-
 ## Key Insights:
 ### 1. Government Segment Drives the Highest Sales-
       - The Government segment contributes 44.22% of total sales, making it the largest revenue-generating customer group.
