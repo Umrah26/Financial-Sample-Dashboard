@@ -1,5 +1,5 @@
 
-#### Built an interactive Power BI Financial Dashboard to analyze sales, profit, products, segments , countries and discount band performance.
+#### Built an interactive Power BI Financial Sample Dashboard to analyze sales, profit, products, segments , countries and discount band performance.
 ## Tools Used : Power BI (Power Query, DAX and Measures, Data Visualization) , Excel.
 ### Created Measures such as:
 #### Avg order, France profit, Germany profit, USA profit, Canada profit, Mexico profit, profit%, totalcogs, totalsales, totalmargin.
